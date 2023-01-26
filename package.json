@@ -1,0 +1,22 @@
+{
+  "name": "paralax-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch style/index.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VerchkaFeya/paralax-art.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VerchkaFeya/paralax-art/issues"
+  },
+  "homepage": "https://github.com/VerchkaFeya/paralax-art#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
